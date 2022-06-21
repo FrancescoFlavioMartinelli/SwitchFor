@@ -258,4 +258,3 @@ for(let lettera of s) {
 }
 
 
-console.log("FIne lezione!");
